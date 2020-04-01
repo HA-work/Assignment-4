@@ -1,0 +1,33 @@
+For the last 5 years
+List of Genres in Descendng order 
+Number of Genres: 19 
+Number of Movies : 203 
+Average Movies per Genre: 25.578947 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 71                   
+Comedy                : 66                   
+Action                : 66                   
+Adventure             : 53                   
+Sci-Fi                : 46                   
+Thriller              : 43                   
+Crime                 : 26                   
+
+Genres below Average 
+
+Horror                : 22                   
+Fantasy               : 22                   
+Romance               : 19                   
+Mystery               : 12                   
+Animation             : 11                   
+Documentary           : 9                    
+Children              : 9                    
+(no genres listed)    : 5                    
+War                   : 2                    
+Western               : 2                    
+Musical               : 1                    
+IMAX                  : 1                    
+

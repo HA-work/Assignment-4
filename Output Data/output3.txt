@@ -1,0 +1,204 @@
+Number of Movies in 5 Years : 203
+Mission: Impossible - Rogue Nation//2015//111781//Action|Adventure|Thriller
+Jupiter Ascending//2015//113345//Action|Adventure|Sci-Fi
+Ex Machina//2015//115713//Drama|Sci-Fi|Thriller
+In the Heart of the Sea//2015//117466//Action|Adventure|Drama
+Jurassic World//2015//117529//Action|Adventure|Drama|Sci-Fi|Thriller
+Maze Runner: Scorch Trials//2015//117895//Action|Thriller
+Black Sea//2015//118706//Adventure|Mystery|Thriller
+Kingsman: The Secret Service//2015//119145//Action|Adventure|Comedy|Crime
+Chappie//2015//120466//Action|Thriller
+Taken 3//2015//120635//Action|Crime|Thriller
+Blackhat//2015//120637//Action|Crime|Drama|Mystery|Thriller
+Terminator Genisys//2015//120799//Action|Adventure|Sci-Fi|Thriller
+Mad Max: Fury Road//2015//122882//Action|Adventure|Sci-Fi|Thriller
+Insidious: Chapter 3//2015//122884//Fantasy|Horror|Thriller
+Star Wars: Episode VII - The Force Awakens//2015//122886//Action|Adventure|Fantasy|Sci-Fi|IMAX
+Ben-hur//2016//122888//(no genres listed)
+Warcraft//2016//122890//Action|Adventure|Fantasy
+Avengers: Age of Ultron//2015//122892//Action|Adventure|Sci-Fi
+Pirates of the Caribbean: Dead Men Tell No Tales//2017//122896//(no genres listed)
+Justice League//2017//122898//Action|Adventure|Sci-Fi
+Ant-Man//2015//122900//Action|Adventure|Sci-Fi
+Fantastic Four//2015//122902//Action|Adventure|Fantasy|Sci-Fi
+Deadpool//2016//122904//Action|Adventure|Comedy|Sci-Fi
+Black Panther//2017//122906//Action|Adventure|Sci-Fi
+Avengers: Infinity War - Part I//2018//122912//Action|Adventure|Sci-Fi
+Thor: Ragnarok//2017//122916//Action|Adventure|Sci-Fi
+Guardians of the Galaxy 2//2017//122918//Action|Adventure|Sci-Fi
+Captain America: Civil War//2016//122920//Action|Sci-Fi|Thriller
+Doctor Strange//2016//122922//Action|Adventure|Sci-Fi
+X-Men: Apocalypse//2016//122924//Action|Adventure|Fantasy|Sci-Fi
+Untitled Spider-Man Reboot//2017//122926//Action|Adventure|Fantasy
+Mortdecai//2015//125914//Adventure|Comedy|Mystery|Romance
+Fifty Shades of Grey//2015//125916//Drama|Romance
+American Heist//2015//126420//Action
+Strange Magic//2015//126482//Animation|Children|Fantasy|Musical
+The DUFF//2015//126548//Comedy
+Project Almanac//2015//127096//Sci-Fi|Thriller
+Louis C.K.: Live at The Comedy Store//2015//127098//Comedy
+Brooklyn//2015//127108//Drama|Romance
+The End of the Tour//2015//127114//Drama
+Experimenter//2015//127116//Drama
+Mistress America//2015//127130//Comedy
+Zipper//2015//127132//Drama|Thriller
+A Walk in the Woods//2015//127134//Adventure|Comedy|Drama
+True Story//2015//127136//Drama|Mystery|Thriller
+Kurt Cobain: Montage of Heck//2015//127146//Documentary
+Going Clear: Scientology and the Prison of Belief//2015//127152//Documentary
+The D Train//2015//127194//Comedy
+Dope//2015//127198//Comedy|Drama
+Me and Earl and the Dying Girl//2015//127202//Drama
+The Overnight//2015//127204//Comedy
+The Stanford Prison Experiment//2015//127212//Drama|Thriller
+Vice//2015//127323//Action|Adventure|Sci-Fi|Thriller
+The Hateful Eight//2015//128360//Western
+Wild Card//2015//128488//Action|Crime|Drama|Thriller
+Paper Towns//2015//128512//Drama|Mystery|Romance
+The Wedding Ringer//2015//128520//Comedy
+Wyrmwood//2015//128542//Action|Horror|Sci-Fi
+The Boy Next Door//2015//128592//Mystery|Thriller
+Boy Meets Girl//2015//128594//Comedy|Drama|Romance
+Victoria//2015//128620//Crime|Drama|Romance
+Crimson Peak//2015//128838//Horror
+Dragonheart 3: The Sorcerer's Curse//2015//128842//Action|Adventure|Fantasy
+Hot Tub Time Machine 2//2015//128975//Comedy|Sci-Fi
+Superfast!//2015//129250//(no genres listed)
+Focus//2015//129354//Comedy|Crime|Drama|Romance
+The Second Best Exotic Marigold Hotel//2015//129428//Comedy|Drama
+Tracers//2015//129657//Action
+Unfinished Business//2015//129737//Comedy
+Run All Night//2015//129937//Action|Crime|Drama|Thriller
+Cinderella//2015//130073//Children|Drama|Fantasy|Romance
+Kidnapping Mr. Heineken//2015//130083//Action|Crime|Drama|Thriller
+The Cobbler//2015//130087//Comedy|Drama|Fantasy
+Pan//2015//130450//Adventure|Children|Fantasy
+Insurgent//2015//130490//Action|Sci-Fi|Thriller
+Home//2015//130520//Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi
+Midnight Special//2015//130576//Drama|Sci-Fi
+Furious 7//2015//130634//Action|Crime|Thriller
+The Final Girls//2015//130686//Comedy|Horror
+Spring//2015//130840//Horror|Romance|Sci-Fi
+Power/Rangers//2015//130842//Action|Adventure|Sci-Fi
+Get Hard//2015//131013//Comedy|Crime
+Shaun the Sheep Movie//2015//131656//Adventure|Animation|Children|Comedy
+Last Knights//2015//131714//Action|Adventure
+The Jinx: The Life and Deaths of Robert Durst//2015//131724//Documentary
+Batman vs. Robin//2015//131739//Action|Adventure|Animation
+Woman in Gold//2015//131796//Drama
+Iliza Shlesinger: Freezing Hot//2015//131826//Comedy
+Tomorrowland//2015//132046//Action|Adventure|Children|Mystery|Sci-Fi
+Buzzard//2015//132153//Comedy|Drama|Horror
+Paul Blart: Mall Cop 2//2015//132157//Action|Comedy|Crime
+The Longest Ride//2015//132424//Drama|Romance
+Danny Collins//2015//132496//Comedy|Drama
+Man Up//2015//132660//Comedy|Romance
+San Andreas//2015//132796//Action|Drama|Thriller
+Hitman: Agent 47//2015//133195//Action|Crime|Thriller
+B/W//2015//133217//Comedy|Crime|Sci-Fi
+Ricki and the Flash//2015//133281//Comedy|Drama
+Partisan//2015//133365//Drama|Thriller
+Infini//2015//133377//Horror|Sci-Fi|Thriller
+Pitch Perfect 2//2015//133419//Comedy
+Carol//2015//133645//Drama|Romance
+The Lobster//2015//133771//Comedy|Romance|Sci-Fi
+Maggie//2015//133782//Drama|Horror|Thriller
+Hot Pursuit//2015//133798//Action|Comedy
+Slow West//2015//133802//Action|Thriller|Western
+Barely Lethal//2015//133867//Action|Adventure|Comedy
+The Martian//2015//134130//Adventure|Drama|Sci-Fi
+Return to Sender//2015//134158//Thriller
+Kung Fury//2015//134170//Action|Comedy|Fantasy|Sci-Fi
+Youth//2015//134214//Drama
+Survivor//2015//134246//Action|Thriller
+Hot Girls Wanted//2015//134248//Documentary
+Spy//2015//134368//Action|Comedy|Crime
+Trainwreck//2015//134393//Comedy|Romance
+Aloha//2015//134528//Comedy|Drama|Romance
+Dragon Blade//2015//134775//Action|Adventure|Drama
+Entourage//2015//134783//Comedy
+Bitter Lake//2015//134796//Documentary
+No Way Jose//2015//134808//Comedy
+Inside Out//2015//134853//Adventure|Animation|Children|Comedy|Drama|Fantasy
+The Wolfpack//2015//134859//Documentary
+The Hunger Games: Mockingjay - Part 2//2015//135133//Adventure|Sci-Fi
+Pixels//2015//135137//Action|Comedy|Sci-Fi
+Fantastic Beasts and Where to Find Them//2016//135143//Fantasy
+Mr. Holmes//2015//135288//Drama|Mystery
+The Secret Life of Pets//2016//135436//Animation|Comedy
+Self/less//2015//135518//Action|Mystery|Sci-Fi|Thriller
+The Last Witch Hunter//2015//135532//Action|Adventure|Fantasy
+Krampus//2015//135534//Comedy|Fantasy|Horror
+Suicide Squad//2016//135536//Action|Crime|Sci-Fi
+Independence Day: Resurgence//2016//135567//Action|Adventure|Sci-Fi
+Star Trek Beyond//2016//135569//Action|Adventure|Sci-Fi
+Ted 2//2015//135861//Comedy
+Absolutely Anything//2015//135885//Comedy|Sci-Fi
+Minions//2015//135887//Adventure|Animation|Children|Comedy
+The Good Dinosaur//2015//136016//Adventure|Animation|Children|Comedy|Fantasy
+Black Mass//2015//136018//Crime|Drama
+Spectre//2015//136020//Action|Adventure|Crime
+Sharknado 3: Oh Hell No!//2015//136305//Horror|Sci-Fi
+Steve Jobs//2015//136562//Drama
+Macbeth//2015//136564//Drama
+Vacation//2015//136598//Adventure|Comedy
+The Face of an Angel//2015//136654//Drama
+Wild Horses//2015//136664//Crime|Drama
+The Squeeze//2015//136778//Comedy|Drama
+Careful What You Wish For//2015//136786//Thriller
+Bad Asses on the Bayou//2015//136816//Action|Comedy
+The Lovers//2015//136859//Action|Adventure|Romance|Sci-Fi
+Batman v Superman: Dawn of Justice//2016//136864//Action|Adventure|Fantasy|Sci-Fi
+Amy//2015//137337//Documentary
+Magic Mike XXL//2015//137595//Comedy|Drama
+The Jungle Book//2016//137857//Adventure|Drama|Fantasy
+Dragon Ball Z: Resurrection of F//2015//137863//Action|Adventure|Animation|Fantasy
+The Man from U.N.C.L.E.//2015//138036//Action|Adventure|Comedy
+Sorrow//2015//138186//Crime|Drama|Horror
+7 Days in Hell//2015//138204//Comedy
+The Walk//2015//138208//Adventure|Drama|Thriller
+13 Hours//2016//138210//Drama
+The Gallows//2015//138610//Horror|Thriller
+Joe Dirt 2: Beautiful Loser//2015//138798//Comedy
+Dark Places//2015//139052//Drama|Mystery|Thriller
+Massu Engira Maasilamani//2015//139157//Comedy|Horror|Thriller
+The Revenant//2015//139385//Adventure|Drama
+Irrational Man//2015//139415//Crime|Drama
+Ooops! Noah is Gone...//2015//139640//Animation
+Southpaw//2015//139642//Action|Drama
+Sicario//2015//139644//Crime|Drama|Mystery
+10 Cent Pistol//2015//139717//Crime|Thriller
+Anomalisa//2015//139855//Animation|Comedy|Fantasy
+Colonia//2016//139857//Thriller
+Always Watching: A Marble Hornets Story//2015//140016//Horror
+The Intern//2015//140110//Comedy
+Love//2015//140162//Drama|Romance
+Room//2015//140174//Drama
+The Runner//2015//140237//Drama
+The Gift//2015//140247//Drama|Horror
+The Witch//2015//140267//Horror
+Men & Chicken//2015//140289//Comedy|Drama
+The Escort//2015//140301//Comedy|Romance
+Secret in Their Eyes//2015//140525//Crime|Drama|Mystery
+Jeff Ross Roasts Criminals: Live at Brazos County Jail//2015//140561//Comedy|Documentary
+Battle For Sevastopol//2015//140627//Drama|Romance|War
+American Ultra//2015//140711//Action|Comedy|Sci-Fi|Thriller
+Straight Outta Compton//2015//140715//Drama
+Cop Car//2015//140725//Crime|Thriller
+Tangerine//2015//140816//Comedy|Drama
+Joy//2015//140928//Comedy|Drama
+Victor Frankenstein//2015//141004//Drama|Horror|Sci-Fi
+Guardians//2016//141131//(no genres listed)
+Scouts Guide to the Zombie Apocalypse//2015//141408//Action|Comedy|Horror
+Suffragette//2015//141422//Drama
+Turbo Kid//2015//141544//Action|Adventure|Sci-Fi
+War Room//2015//141668//Drama
+Legend//2015//141688//Crime|Thriller
+Deathgasm//2015//141718//Comedy|Horror
+The Danish Girl//2015//141749//Drama
+Cooties//2015//141799//Comedy|Horror
+Steve Jobs: The Man in the Machine//2015//141846//Documentary
+Green Room//2015//141866//(no genres listed)
+Beasts of No Nation//2015//141890//Drama|War
+Bloodsucking Bastards//2015//141928//Comedy|Horror
+Knock Knock//2015//142074//Crime|Horror|Thriller

@@ -1,0 +1,2849 @@
+List of Years and Genres 
+Number of Years : 101 
+
+
+Year : 0
+List of Genres in Descendng order 
+Number of Genres: 3 
+Number of Movies : 2 
+Average Movies per Genre: 1.333333 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Sci-Fi                : 2                    
+
+Genres below Average 
+
+Thriller              : 1                    
+Action                : 1                    
+
+
+Year : 1903
+List of Genres in Descendng order 
+Number of Genres: 2 
+Number of Movies : 1 
+Average Movies per Genre: 1.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Western               : 1                    
+Crime                 : 1                    
+
+
+Year : 1908
+List of Genres in Descendng order 
+Number of Genres: 3 
+Number of Movies : 1 
+Average Movies per Genre: 1.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Sci-Fi                : 1                    
+Comedy                : 1                    
+Animation             : 1                    
+
+
+Year : 1916
+List of Genres in Descendng order 
+Number of Genres: 3 
+Number of Movies : 2 
+Average Movies per Genre: 1.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Romance               : 1                    
+Fantasy               : 1                    
+Drama                 : 1                    
+
+
+Year : 1919
+List of Genres in Descendng order 
+Number of Genres: 2 
+Number of Movies : 1 
+Average Movies per Genre: 1.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 1                    
+Comedy                : 1                    
+
+
+Year : 1920
+List of Genres in Descendng order 
+Number of Genres: 1 
+Number of Movies : 1 
+Average Movies per Genre: 1.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 1                    
+
+
+Year : 1923
+List of Genres in Descendng order 
+Number of Genres: 3 
+Number of Movies : 2 
+Average Movies per Genre: 1.333333 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 2                    
+
+Genres below Average 
+
+Romance               : 1                    
+Action                : 1                    
+
+
+Year : 1924
+List of Genres in Descendng order 
+Number of Genres: 8 
+Number of Movies : 3 
+Average Movies per Genre: 1.375000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 2                    
+Romance               : 2                    
+Fantasy               : 2                    
+
+Genres below Average 
+
+Thriller              : 1                    
+Sci-Fi                : 1                    
+Adventure             : 1                    
+Action                : 1                    
+Comedy                : 1                    
+
+
+Year : 1925
+List of Genres in Descendng order 
+Number of Genres: 4 
+Number of Movies : 2 
+Average Movies per Genre: 1.250000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 2                    
+
+Genres below Average 
+
+Romance               : 1                    
+Adventure             : 1                    
+War                   : 1                    
+
+
+Year : 1926
+List of Genres in Descendng order 
+Number of Genres: 3 
+Number of Movies : 3 
+Average Movies per Genre: 1.666667 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 3                    
+
+Genres below Average 
+
+Horror                : 1                    
+Fantasy               : 1                    
+
+
+Year : 1927
+List of Genres in Descendng order 
+Number of Genres: 4 
+Number of Movies : 3 
+Average Movies per Genre: 1.250000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 2                    
+
+Genres below Average 
+
+Comedy                : 1                    
+Romance               : 1                    
+Sci-Fi                : 1                    
+
+
+Year : 1928
+List of Genres in Descendng order 
+Number of Genres: 4 
+Number of Movies : 1 
+Average Movies per Genre: 1.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Musical               : 1                    
+Comedy                : 1                    
+Children              : 1                    
+Animation             : 1                    
+
+
+Year : 1930
+List of Genres in Descendng order 
+Number of Genres: 5 
+Number of Movies : 3 
+Average Movies per Genre: 1.200000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 2                    
+
+Genres below Average 
+
+Musical               : 1                    
+Comedy                : 1                    
+War                   : 1                    
+Action                : 1                    
+
+
+Year : 1931
+List of Genres in Descendng order 
+Number of Genres: 10 
+Number of Movies : 10 
+Average Movies per Genre: 2.100000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 6                    
+Comedy                : 3                    
+Horror                : 3                    
+
+Genres below Average 
+
+Romance               : 2                    
+Crime                 : 2                    
+Musical               : 1                    
+Sci-Fi                : 1                    
+Western               : 1                    
+Thriller              : 1                    
+Film-Noir             : 1                    
+
+
+Year : 1932
+List of Genres in Descendng order 
+Number of Genres: 6 
+Number of Movies : 7 
+Average Movies per Genre: 2.333333 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 4                    
+Crime                 : 3                    
+Comedy                : 3                    
+
+Genres below Average 
+
+Romance               : 2                    
+Horror                : 1                    
+Film-Noir             : 1                    
+
+
+Year : 1933
+List of Genres in Descendng order 
+Number of Genres: 10 
+Number of Movies : 10 
+Average Movies per Genre: 2.500000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 5                    
+Romance               : 4                    
+Drama                 : 4                    
+Musical               : 4                    
+
+Genres below Average 
+
+Fantasy               : 2                    
+Adventure             : 2                    
+Children              : 1                    
+Horror                : 1                    
+Action                : 1                    
+War                   : 1                    
+
+
+Year : 1934
+List of Genres in Descendng order 
+Number of Genres: 8 
+Number of Movies : 7 
+Average Movies per Genre: 1.500000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 3                    
+Documentary           : 2                    
+Drama                 : 2                    
+
+Genres below Average 
+
+War                   : 1                    
+Musical               : 1                    
+Fantasy               : 1                    
+Children              : 1                    
+Romance               : 1                    
+
+
+Year : 1935
+List of Genres in Descendng order 
+Number of Genres: 6 
+Number of Movies : 8 
+Average Movies per Genre: 3.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 5                    
+Romance               : 4                    
+Drama                 : 3                    
+Musical               : 3                    
+
+Genres below Average 
+
+Adventure             : 2                    
+Action                : 1                    
+
+
+Year : 1936
+List of Genres in Descendng order 
+Number of Genres: 10 
+Number of Movies : 16 
+Average Movies per Genre: 3.300000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Romance               : 10                   
+Comedy                : 7                    
+Drama                 : 6                    
+
+Genres below Average 
+
+Musical               : 3                    
+Thriller              : 2                    
+Western               : 1                    
+Film-Noir             : 1                    
+Adventure             : 1                    
+Mystery               : 1                    
+Crime                 : 1                    
+
+
+Year : 1937
+List of Genres in Descendng order 
+Number of Genres: 13 
+Number of Movies : 11 
+Average Movies per Genre: 2.076923 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 9                    
+Romance               : 3                    
+
+Genres below Average 
+
+Crime                 : 2                    
+Adventure             : 2                    
+Musical               : 2                    
+Children              : 2                    
+Film-Noir             : 1                    
+Thriller              : 1                    
+Action                : 1                    
+War                   : 1                    
+Comedy                : 1                    
+Fantasy               : 1                    
+Animation             : 1                    
+
+
+Year : 1938
+List of Genres in Descendng order 
+Number of Genres: 9 
+Number of Movies : 10 
+Average Movies per Genre: 2.444444 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 7                    
+Comedy                : 6                    
+Romance               : 3                    
+
+Genres below Average 
+
+Musical               : 1                    
+Thriller              : 1                    
+Film-Noir             : 1                    
+Crime                 : 1                    
+War                   : 1                    
+Action                : 1                    
+
+
+Year : 1939
+List of Genres in Descendng order 
+Number of Genres: 12 
+Number of Movies : 15 
+Average Movies per Genre: 3.083333 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 10                   
+Romance               : 8                    
+Comedy                : 6                    
+
+Genres below Average 
+
+Adventure             : 3                    
+Western               : 2                    
+War                   : 2                    
+Musical               : 1                    
+Mystery               : 1                    
+Crime                 : 1                    
+Action                : 1                    
+Children              : 1                    
+Animation             : 1                    
+
+
+Year : 1940
+List of Genres in Descendng order 
+Number of Genres: 14 
+Number of Movies : 14 
+Average Movies per Genre: 2.928571 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 8                    
+Comedy                : 6                    
+Romance               : 6                    
+Thriller              : 3                    
+Musical               : 3                    
+
+Genres below Average 
+
+Western               : 2                    
+Action                : 2                    
+Mystery               : 2                    
+Fantasy               : 2                    
+Children              : 2                    
+Animation             : 2                    
+Sci-Fi                : 1                    
+Adventure             : 1                    
+Film-Noir             : 1                    
+
+
+Year : 1941
+List of Genres in Descendng order 
+Number of Genres: 14 
+Number of Movies : 14 
+Average Movies per Genre: 2.571429 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 7                    
+Drama                 : 7                    
+Romance               : 5                    
+Mystery               : 3                    
+
+Genres below Average 
+
+Crime                 : 2                    
+Thriller              : 2                    
+Film-Noir             : 2                    
+Musical               : 2                    
+War                   : 1                    
+Fantasy               : 1                    
+Horror                : 1                    
+Adventure             : 1                    
+Children              : 1                    
+Animation             : 1                    
+
+
+Year : 1942
+List of Genres in Descendng order 
+Number of Genres: 13 
+Number of Movies : 16 
+Average Movies per Genre: 3.153846 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 10                   
+Romance               : 6                    
+Comedy                : 5                    
+Thriller              : 4                    
+
+Genres below Average 
+
+Crime                 : 3                    
+War                   : 3                    
+Film-Noir             : 2                    
+Musical               : 2                    
+Mystery               : 2                    
+Horror                : 1                    
+Action                : 1                    
+Children              : 1                    
+Animation             : 1                    
+
+
+Year : 1943
+List of Genres in Descendng order 
+Number of Genres: 8 
+Number of Movies : 7 
+Average Movies per Genre: 1.625000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 5                    
+Horror                : 2                    
+
+Genres below Average 
+
+Fantasy               : 1                    
+Thriller              : 1                    
+Crime                 : 1                    
+War                   : 1                    
+Romance               : 1                    
+Adventure             : 1                    
+
+
+Year : 1944
+List of Genres in Descendng order 
+Number of Genres: 11 
+Number of Movies : 12 
+Average Movies per Genre: 2.727273 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 9                    
+Romance               : 3                    
+War                   : 3                    
+Thriller              : 3                    
+
+Genres below Average 
+
+Comedy                : 2                    
+Mystery               : 2                    
+Film-Noir             : 2                    
+Crime                 : 2                    
+Musical               : 2                    
+Adventure             : 1                    
+Children              : 1                    
+
+
+Year : 1945
+List of Genres in Descendng order 
+Number of Genres: 10 
+Number of Movies : 9 
+Average Movies per Genre: 2.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Mystery               : 5                    
+Crime                 : 2                    
+Horror                : 2                    
+Film-Noir             : 2                    
+Drama                 : 2                    
+Thriller              : 2                    
+Romance               : 2                    
+
+Genres below Average 
+
+War                   : 1                    
+Musical               : 1                    
+Comedy                : 1                    
+
+
+Year : 1946
+List of Genres in Descendng order 
+Number of Genres: 13 
+Number of Movies : 14 
+Average Movies per Genre: 2.692308 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 9                    
+Romance               : 5                    
+Mystery               : 3                    
+Thriller              : 3                    
+Film-Noir             : 3                    
+
+Genres below Average 
+
+Crime                 : 2                    
+Musical               : 2                    
+Fantasy               : 2                    
+Children              : 2                    
+War                   : 1                    
+Western               : 1                    
+Animation             : 1                    
+Adventure             : 1                    
+
+
+Year : 1947
+List of Genres in Descendng order 
+Number of Genres: 8 
+Number of Movies : 11 
+Average Movies per Genre: 3.250000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 6                    
+Comedy                : 5                    
+Crime                 : 5                    
+Film-Noir             : 4                    
+
+Genres below Average 
+
+Romance               : 3                    
+Mystery               : 1                    
+Musical               : 1                    
+Thriller              : 1                    
+
+
+Year : 1948
+List of Genres in Descendng order 
+Number of Genres: 13 
+Number of Movies : 14 
+Average Movies per Genre: 2.230769 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 9                    
+Crime                 : 4                    
+Comedy                : 3                    
+
+Genres below Average 
+
+Adventure             : 2                    
+Film-Noir             : 2                    
+Thriller              : 2                    
+War                   : 1                    
+Children              : 1                    
+Romance               : 1                    
+Musical               : 1                    
+Western               : 1                    
+Action                : 1                    
+Horror                : 1                    
+
+
+Year : 1949
+List of Genres in Descendng order 
+Number of Genres: 13 
+Number of Movies : 17 
+Average Movies per Genre: 3.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 11                   
+Romance               : 6                    
+Comedy                : 6                    
+Film-Noir             : 3                    
+
+Genres below Average 
+
+Crime                 : 2                    
+Thriller              : 2                    
+Western               : 2                    
+War                   : 2                    
+Mystery               : 1                    
+Action                : 1                    
+Musical               : 1                    
+Children              : 1                    
+Adventure             : 1                    
+
+
+Year : 1950
+List of Genres in Descendng order 
+Number of Genres: 14 
+Number of Movies : 18 
+Average Movies per Genre: 3.285714 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Romance               : 9                    
+Drama                 : 8                    
+Comedy                : 6                    
+Western               : 4                    
+Mystery               : 4                    
+
+Genres below Average 
+
+Film-Noir             : 3                    
+Adventure             : 2                    
+Musical               : 2                    
+Fantasy               : 2                    
+Children              : 2                    
+Action                : 1                    
+Crime                 : 1                    
+Thriller              : 1                    
+Animation             : 1                    
+
+
+Year : 1951
+List of Genres in Descendng order 
+Number of Genres: 14 
+Number of Movies : 10 
+Average Movies per Genre: 1.857143 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 5                    
+Romance               : 4                    
+Musical               : 4                    
+Comedy                : 2                    
+Adventure             : 2                    
+
+Genres below Average 
+
+Sci-Fi                : 1                    
+War                   : 1                    
+Action                : 1                    
+Thriller              : 1                    
+Film-Noir             : 1                    
+Crime                 : 1                    
+Fantasy               : 1                    
+Children              : 1                    
+Animation             : 1                    
+
+
+Year : 1952
+List of Genres in Descendng order 
+Number of Genres: 8 
+Number of Movies : 11 
+Average Movies per Genre: 2.625000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 6                    
+Drama                 : 5                    
+Romance               : 5                    
+
+Genres below Average 
+
+War                   : 1                    
+Adventure             : 1                    
+Sci-Fi                : 1                    
+Western               : 1                    
+Musical               : 1                    
+
+
+Year : 1953
+List of Genres in Descendng order 
+Number of Genres: 17 
+Number of Movies : 23 
+Average Movies per Genre: 3.117647 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 13                   
+Romance               : 7                    
+Comedy                : 7                    
+Thriller              : 4                    
+Musical               : 4                    
+
+Genres below Average 
+
+Western               : 2                    
+Children              : 2                    
+Animation             : 2                    
+War                   : 2                    
+Crime                 : 2                    
+Adventure             : 2                    
+Film-Noir             : 1                    
+Mystery               : 1                    
+Horror                : 1                    
+Action                : 1                    
+Sci-Fi                : 1                    
+Fantasy               : 1                    
+
+
+Year : 1954
+List of Genres in Descendng order 
+Number of Genres: 15 
+Number of Movies : 15 
+Average Movies per Genre: 2.533333 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 8                    
+Crime                 : 4                    
+Romance               : 4                    
+Thriller              : 4                    
+Musical               : 3                    
+Comedy                : 3                    
+
+Genres below Average 
+
+Sci-Fi                : 2                    
+Horror                : 2                    
+Mystery               : 2                    
+Animation             : 1                    
+Film-Noir             : 1                    
+Fantasy               : 1                    
+Western               : 1                    
+Adventure             : 1                    
+Action                : 1                    
+
+
+Year : 1955
+List of Genres in Descendng order 
+Number of Genres: 15 
+Number of Movies : 26 
+Average Movies per Genre: 3.866667 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 15                   
+Romance               : 7                    
+Crime                 : 7                    
+Thriller              : 5                    
+Comedy                : 4                    
+
+Genres below Average 
+
+War                   : 3                    
+Film-Noir             : 3                    
+Mystery               : 3                    
+Western               : 2                    
+Musical               : 2                    
+Sci-Fi                : 2                    
+Horror                : 2                    
+Documentary           : 1                    
+Children              : 1                    
+Animation             : 1                    
+
+
+Year : 1956
+List of Genres in Descendng order 
+Number of Genres: 12 
+Number of Movies : 17 
+Average Movies per Genre: 2.750000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 10                   
+Sci-Fi                : 5                    
+Horror                : 3                    
+Western               : 3                    
+Romance               : 3                    
+
+Genres below Average 
+
+Musical               : 2                    
+Comedy                : 2                    
+Film-Noir             : 1                    
+Crime                 : 1                    
+War                   : 1                    
+Thriller              : 1                    
+Adventure             : 1                    
+
+
+Year : 1957
+List of Genres in Descendng order 
+Number of Genres: 15 
+Number of Movies : 20 
+Average Movies per Genre: 2.466667 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 9                    
+Comedy                : 6                    
+Sci-Fi                : 3                    
+Thriller              : 3                    
+Romance               : 3                    
+
+Genres below Average 
+
+Action                : 2                    
+War                   : 2                    
+Musical               : 2                    
+(no genres listed)    : 1                    
+Horror                : 1                    
+Western               : 1                    
+Adventure             : 1                    
+Mystery               : 1                    
+Film-Noir             : 1                    
+Children              : 1                    
+
+
+Year : 1958
+List of Genres in Descendng order 
+Number of Genres: 11 
+Number of Movies : 21 
+Average Movies per Genre: 3.636364 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 9                    
+Drama                 : 7                    
+Romance               : 5                    
+Crime                 : 4                    
+
+Genres below Average 
+
+War                   : 3                    
+Musical               : 3                    
+Thriller              : 3                    
+Sci-Fi                : 2                    
+Horror                : 2                    
+Film-Noir             : 1                    
+Mystery               : 1                    
+
+
+Year : 1959
+List of Genres in Descendng order 
+Number of Genres: 16 
+Number of Movies : 21 
+Average Movies per Genre: 3.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 9                    
+Romance               : 6                    
+War                   : 4                    
+Comedy                : 4                    
+Adventure             : 4                    
+Children              : 3                    
+Sci-Fi                : 3                    
+Action                : 3                    
+
+Genres below Average 
+
+Musical               : 2                    
+Horror                : 2                    
+Crime                 : 2                    
+Mystery               : 2                    
+Western               : 1                    
+Animation             : 1                    
+Fantasy               : 1                    
+Thriller              : 1                    
+
+
+Year : 1960
+List of Genres in Descendng order 
+Number of Genres: 14 
+Number of Movies : 22 
+Average Movies per Genre: 3.357143 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 11                   
+Horror                : 6                    
+Crime                 : 5                    
+Comedy                : 4                    
+Children              : 4                    
+
+Genres below Average 
+
+Romance               : 3                    
+Thriller              : 3                    
+Musical               : 2                    
+War                   : 2                    
+Action                : 2                    
+Sci-Fi                : 2                    
+Mystery               : 1                    
+Fantasy               : 1                    
+Adventure             : 1                    
+
+
+Year : 1961
+List of Genres in Descendng order 
+Number of Genres: 14 
+Number of Movies : 20 
+Average Movies per Genre: 2.928571 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 10                   
+Romance               : 6                    
+Comedy                : 5                    
+Adventure             : 5                    
+
+Genres below Average 
+
+Sci-Fi                : 2                    
+Action                : 2                    
+Fantasy               : 2                    
+Children              : 2                    
+Musical               : 2                    
+Crime                 : 1                    
+War                   : 1                    
+Western               : 1                    
+Horror                : 1                    
+Animation             : 1                    
+
+
+Year : 1962
+List of Genres in Descendng order 
+Number of Genres: 15 
+Number of Movies : 31 
+Average Movies per Genre: 3.933333 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 19                   
+Adventure             : 7                    
+Comedy                : 5                    
+Romance               : 5                    
+Thriller              : 4                    
+
+Genres below Average 
+
+Horror                : 3                    
+Action                : 3                    
+Fantasy               : 2                    
+Western               : 2                    
+Musical               : 2                    
+Crime                 : 2                    
+War                   : 2                    
+Documentary           : 1                    
+Sci-Fi                : 1                    
+Children              : 1                    
+
+
+Year : 1963
+List of Genres in Descendng order 
+Number of Genres: 14 
+Number of Movies : 21 
+Average Movies per Genre: 3.357143 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 9                    
+Comedy                : 7                    
+Adventure             : 6                    
+Thriller              : 5                    
+
+Genres below Average 
+
+Action                : 3                    
+Romance               : 3                    
+Crime                 : 3                    
+Sci-Fi                : 2                    
+Horror                : 2                    
+Fantasy               : 2                    
+Mystery               : 2                    
+Film-Noir             : 1                    
+Western               : 1                    
+Children              : 1                    
+
+
+Year : 1964
+List of Genres in Descendng order 
+Number of Genres: 17 
+Number of Movies : 25 
+Average Movies per Genre: 3.588235 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 10                   
+Comedy                : 9                    
+Romance               : 6                    
+Action                : 5                    
+Thriller              : 5                    
+War                   : 5                    
+Adventure             : 4                    
+Fantasy               : 4                    
+
+Genres below Average 
+
+Horror                : 2                    
+Sci-Fi                : 2                    
+Mystery               : 2                    
+Musical               : 2                    
+Animation             : 1                    
+Documentary           : 1                    
+Western               : 1                    
+Crime                 : 1                    
+Children              : 1                    
+
+
+Year : 1965
+List of Genres in Descendng order 
+Number of Genres: 15 
+Number of Movies : 26 
+Average Movies per Genre: 4.266667 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 13                   
+Comedy                : 9                    
+Action                : 7                    
+Adventure             : 6                    
+
+Genres below Average 
+
+Western               : 4                    
+Thriller              : 4                    
+War                   : 4                    
+Crime                 : 4                    
+Romance               : 3                    
+Sci-Fi                : 2                    
+Horror                : 2                    
+Musical               : 2                    
+Mystery               : 2                    
+Fantasy               : 1                    
+Children              : 1                    
+
+
+Year : 1966
+List of Genres in Descendng order 
+Number of Genres: 16 
+Number of Movies : 29 
+Average Movies per Genre: 3.687500 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 13                   
+Drama                 : 12                   
+Crime                 : 5                    
+Romance               : 4                    
+
+Genres below Average 
+
+War                   : 3                    
+Sci-Fi                : 3                    
+Adventure             : 3                    
+Animation             : 2                    
+Action                : 2                    
+Children              : 2                    
+Musical               : 2                    
+Mystery               : 2                    
+Western               : 2                    
+Thriller              : 2                    
+Fantasy               : 1                    
+Horror                : 1                    
+
+
+Year : 1967
+List of Genres in Descendng order 
+Number of Genres: 15 
+Number of Movies : 30 
+Average Movies per Genre: 4.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 16                   
+Comedy                : 8                    
+Action                : 6                    
+Thriller              : 4                    
+Musical               : 4                    
+Adventure             : 4                    
+Crime                 : 4                    
+
+Genres below Average 
+
+Sci-Fi                : 3                    
+Horror                : 3                    
+Children              : 2                    
+Mystery               : 2                    
+Documentary           : 1                    
+Romance               : 1                    
+Fantasy               : 1                    
+Western               : 1                    
+
+
+Year : 1968
+List of Genres in Descendng order 
+Number of Genres: 17 
+Number of Movies : 28 
+Average Movies per Genre: 4.588235 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 15                   
+Musical               : 7                    
+Comedy                : 7                    
+Action                : 6                    
+Sci-Fi                : 6                    
+Adventure             : 6                    
+
+Genres below Average 
+
+Children              : 4                    
+Animation             : 4                    
+Horror                : 4                    
+Documentary           : 3                    
+Romance               : 3                    
+War                   : 3                    
+Thriller              : 3                    
+Crime                 : 2                    
+Fantasy               : 2                    
+Western               : 2                    
+Mystery               : 1                    
+
+
+Year : 1969
+List of Genres in Descendng order 
+Number of Genres: 16 
+Number of Movies : 20 
+Average Movies per Genre: 3.312500 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 11                   
+Comedy                : 7                    
+Adventure             : 4                    
+Thriller              : 4                    
+Western               : 4                    
+
+Genres below Average 
+
+Musical               : 3                    
+Fantasy               : 3                    
+Romance               : 3                    
+Action                : 3                    
+Children              : 2                    
+Animation             : 2                    
+War                   : 2                    
+Crime                 : 2                    
+Sci-Fi                : 1                    
+Horror                : 1                    
+Mystery               : 1                    
+
+
+Year : 1970
+List of Genres in Descendng order 
+Number of Genres: 12 
+Number of Movies : 18 
+Average Movies per Genre: 3.166667 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 11                   
+Comedy                : 6                    
+War                   : 6                    
+
+Genres below Average 
+
+Action                : 3                    
+Thriller              : 2                    
+Crime                 : 2                    
+Romance               : 2                    
+Western               : 2                    
+Horror                : 1                    
+Musical               : 1                    
+Fantasy               : 1                    
+Sci-Fi                : 1                    
+
+
+Year : 1971
+List of Genres in Descendng order 
+Number of Genres: 15 
+Number of Movies : 29 
+Average Movies per Genre: 4.600000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 14                   
+Comedy                : 10                   
+Action                : 9                    
+Thriller              : 8                    
+Crime                 : 5                    
+Adventure             : 5                    
+
+Genres below Average 
+
+Mystery               : 3                    
+Romance               : 3                    
+Musical               : 3                    
+Western               : 2                    
+Sci-Fi                : 2                    
+Children              : 2                    
+Documentary           : 1                    
+War                   : 1                    
+Fantasy               : 1                    
+
+
+Year : 1972
+List of Genres in Descendng order 
+Number of Genres: 14 
+Number of Movies : 23 
+Average Movies per Genre: 3.500000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 14                   
+Comedy                : 9                    
+Sci-Fi                : 5                    
+Thriller              : 4                    
+
+Genres below Average 
+
+Mystery               : 3                    
+Horror                : 2                    
+Romance               : 2                    
+Musical               : 2                    
+Western               : 2                    
+Adventure             : 2                    
+Crime                 : 1                    
+War                   : 1                    
+Children              : 1                    
+Action                : 1                    
+
+
+Year : 1973
+List of Genres in Descendng order 
+Number of Genres: 16 
+Number of Movies : 37 
+Average Movies per Genre: 5.562500 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 21                   
+Crime                 : 12                   
+Action                : 10                   
+Thriller              : 10                   
+Comedy                : 9                    
+Sci-Fi                : 6                    
+
+Genres below Average 
+
+Adventure             : 5                    
+Western               : 3                    
+Romance               : 2                    
+Horror                : 2                    
+Musical               : 2                    
+Children              : 2                    
+Animation             : 2                    
+War                   : 1                    
+Fantasy               : 1                    
+Mystery               : 1                    
+
+
+Year : 1974
+List of Genres in Descendng order 
+Number of Genres: 17 
+Number of Movies : 27 
+Average Movies per Genre: 3.941176 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 11                   
+Thriller              : 8                    
+Comedy                : 8                    
+Action                : 7                    
+Crime                 : 6                    
+Horror                : 4                    
+Romance               : 4                    
+
+Genres below Average 
+
+Mystery               : 3                    
+Fantasy               : 3                    
+Children              : 3                    
+Sci-Fi                : 2                    
+Documentary           : 2                    
+Adventure             : 2                    
+Animation             : 1                    
+Musical               : 1                    
+Western               : 1                    
+Film-Noir             : 1                    
+
+
+Year : 1975
+List of Genres in Descendng order 
+Number of Genres: 16 
+Number of Movies : 27 
+Average Movies per Genre: 3.687500 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 12                   
+Comedy                : 8                    
+Action                : 6                    
+Romance               : 5                    
+Crime                 : 4                    
+Thriller              : 4                    
+Adventure             : 4                    
+
+Genres below Average 
+
+Mystery               : 3                    
+Horror                : 3                    
+Sci-Fi                : 2                    
+Musical               : 2                    
+Fantasy               : 2                    
+Animation             : 1                    
+Documentary           : 1                    
+War                   : 1                    
+Children              : 1                    
+
+
+Year : 1976
+List of Genres in Descendng order 
+Number of Genres: 15 
+Number of Movies : 30 
+Average Movies per Genre: 4.533333 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 13                   
+Comedy                : 11                   
+Thriller              : 10                   
+Action                : 5                    
+Adventure             : 5                    
+Crime                 : 5                    
+
+Genres below Average 
+
+Romance               : 4                    
+Sci-Fi                : 3                    
+Horror                : 3                    
+War                   : 2                    
+Mystery               : 2                    
+Fantasy               : 2                    
+Documentary           : 1                    
+Musical               : 1                    
+Children              : 1                    
+
+
+Year : 1977
+List of Genres in Descendng order 
+Number of Genres: 17 
+Number of Movies : 42 
+Average Movies per Genre: 5.235294 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 19                   
+Comedy                : 16                   
+Adventure             : 9                    
+Horror                : 7                    
+
+Genres below Average 
+
+Fantasy               : 5                    
+Children              : 5                    
+Action                : 5                    
+Thriller              : 4                    
+Romance               : 3                    
+Animation             : 3                    
+Sci-Fi                : 3                    
+War                   : 2                    
+Crime                 : 2                    
+Documentary           : 2                    
+Musical               : 2                    
+Western               : 1                    
+Mystery               : 1                    
+
+
+Year : 1978
+List of Genres in Descendng order 
+Number of Genres: 17 
+Number of Movies : 45 
+Average Movies per Genre: 5.470588 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 15                   
+Comedy                : 15                   
+Action                : 13                   
+Horror                : 9                    
+Adventure             : 6                    
+Sci-Fi                : 6                    
+Thriller              : 6                    
+
+Genres below Average 
+
+Crime                 : 4                    
+War                   : 3                    
+Mystery               : 3                    
+Fantasy               : 3                    
+Children              : 3                    
+Documentary           : 2                    
+Romance               : 2                    
+Animation             : 1                    
+Western               : 1                    
+Musical               : 1                    
+
+
+Year : 1979
+List of Genres in Descendng order 
+Number of Genres: 15 
+Number of Movies : 48 
+Average Movies per Genre: 6.600000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 24                   
+Comedy                : 18                   
+Action                : 10                   
+Sci-Fi                : 9                    
+Horror                : 7                    
+
+Genres below Average 
+
+Thriller              : 6                    
+Adventure             : 6                    
+Romance               : 5                    
+Musical               : 3                    
+Crime                 : 2                    
+Animation             : 2                    
+Fantasy               : 2                    
+Mystery               : 2                    
+War                   : 2                    
+Children              : 1                    
+
+
+Year : 1980
+List of Genres in Descendng order 
+Number of Genres: 16 
+Number of Movies : 59 
+Average Movies per Genre: 6.812500 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 24                   
+Comedy                : 19                   
+Sci-Fi                : 12                   
+Action                : 12                   
+Horror                : 9                    
+Adventure             : 8                    
+
+Genres below Average 
+
+Thriller              : 5                    
+Romance               : 5                    
+Crime                 : 4                    
+Musical               : 3                    
+War                   : 2                    
+Mystery               : 2                    
+Fantasy               : 1                    
+Western               : 1                    
+Documentary           : 1                    
+Children              : 1                    
+
+
+Year : 1981
+List of Genres in Descendng order 
+Number of Genres: 15 
+Number of Movies : 61 
+Average Movies per Genre: 8.533333 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 22                   
+Comedy                : 21                   
+Action                : 13                   
+Horror                : 12                   
+Thriller              : 11                   
+Adventure             : 10                   
+
+Genres below Average 
+
+Sci-Fi                : 8                    
+Romance               : 7                    
+Fantasy               : 6                    
+Mystery               : 5                    
+Crime                 : 4                    
+War                   : 4                    
+Musical               : 2                    
+Animation             : 2                    
+Children              : 1                    
+
+
+Year : 1982
+List of Genres in Descendng order 
+Number of Genres: 14 
+Number of Movies : 60 
+Average Movies per Genre: 8.428571 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 24                   
+Drama                 : 18                   
+Horror                : 12                   
+Action                : 12                   
+Thriller              : 11                   
+Sci-Fi                : 9                    
+
+Genres below Average 
+
+Adventure             : 6                    
+Mystery               : 5                    
+Romance               : 5                    
+Crime                 : 4                    
+Musical               : 4                    
+Documentary           : 3                    
+Fantasy               : 3                    
+Children              : 2                    
+
+
+Year : 1983
+List of Genres in Descendng order 
+Number of Genres: 17 
+Number of Movies : 64 
+Average Movies per Genre: 7.882353 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 24                   
+Drama                 : 21                   
+Action                : 15                   
+Thriller              : 12                   
+Horror                : 11                   
+Sci-Fi                : 8                    
+Adventure             : 8                    
+
+Genres below Average 
+
+Crime                 : 7                    
+Romance               : 7                    
+Fantasy               : 5                    
+Documentary           : 4                    
+Musical               : 3                    
+Mystery               : 3                    
+Animation             : 2                    
+War                   : 2                    
+Children              : 1                    
+Western               : 1                    
+
+
+Year : 1984
+List of Genres in Descendng order 
+Number of Genres: 17 
+Number of Movies : 66 
+Average Movies per Genre: 8.176471 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 32                   
+Drama                 : 19                   
+Action                : 14                   
+Sci-Fi                : 11                   
+Adventure             : 10                   
+Romance               : 9                    
+
+Genres below Average 
+
+Thriller              : 8                    
+Horror                : 8                    
+Fantasy               : 7                    
+Crime                 : 6                    
+Musical               : 5                    
+War                   : 4                    
+Mystery               : 2                    
+Children              : 1                    
+Animation             : 1                    
+Film-Noir             : 1                    
+Documentary           : 1                    
+
+
+Year : 1985
+List of Genres in Descendng order 
+Number of Genres: 16 
+Number of Movies : 105 
+Average Movies per Genre: 14.562500 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 44                   
+Drama                 : 34                   
+Adventure             : 25                   
+Romance               : 19                   
+Action                : 17                   
+Thriller              : 16                   
+Sci-Fi                : 16                   
+
+Genres below Average 
+
+Horror                : 13                   
+Fantasy               : 12                   
+Crime                 : 11                   
+Children              : 7                    
+Mystery               : 6                    
+War                   : 5                    
+Documentary           : 4                    
+Animation             : 2                    
+Western               : 2                    
+
+
+Year : 1986
+List of Genres in Descendng order 
+Number of Genres: 17 
+Number of Movies : 109 
+Average Movies per Genre: 13.588235 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 46                   
+Drama                 : 40                   
+Action                : 21                   
+Horror                : 19                   
+Adventure             : 18                   
+Sci-Fi                : 15                   
+Crime                 : 14                   
+Thriller              : 14                   
+
+Genres below Average 
+
+Romance               : 13                   
+Fantasy               : 7                    
+Children              : 6                    
+Animation             : 5                    
+Musical               : 4                    
+War                   : 4                    
+Mystery               : 3                    
+Western               : 1                    
+Film-Noir             : 1                    
+
+
+Year : 1987
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 120 
+Average Movies per Genre: 15.111111 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 65                   
+Drama                 : 45                   
+Action                : 23                   
+Romance               : 20                   
+Horror                : 18                   
+Sci-Fi                : 17                   
+Crime                 : 16                   
+
+Genres below Average 
+
+Thriller              : 15                   
+Adventure             : 12                   
+Fantasy               : 11                   
+War                   : 7                    
+Children              : 6                    
+Mystery               : 6                    
+Animation             : 5                    
+Western               : 2                    
+Film-Noir             : 2                    
+Documentary           : 1                    
+Musical               : 1                    
+
+
+Year : 1988
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 130 
+Average Movies per Genre: 15.944444 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 62                   
+Drama                 : 50                   
+Action                : 24                   
+Thriller              : 21                   
+Horror                : 20                   
+Romance               : 16                   
+
+Genres below Average 
+
+Sci-Fi                : 15                   
+Crime                 : 14                   
+Fantasy               : 12                   
+Adventure             : 12                   
+Animation             : 10                   
+Mystery               : 8                    
+Children              : 7                    
+War                   : 6                    
+Musical               : 5                    
+Documentary           : 2                    
+Western               : 2                    
+Film-Noir             : 1                    
+
+
+Year : 1989
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 113 
+Average Movies per Genre: 13.500000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 55                   
+Drama                 : 51                   
+Action                : 26                   
+Crime                 : 17                   
+Thriller              : 16                   
+
+Genres below Average 
+
+Sci-Fi                : 12                   
+Romance               : 12                   
+Fantasy               : 10                   
+Adventure             : 10                   
+Animation             : 7                    
+Horror                : 7                    
+Mystery               : 5                    
+War                   : 5                    
+Children              : 4                    
+Musical               : 2                    
+Documentary           : 2                    
+Film-Noir             : 1                    
+Western               : 1                    
+
+
+Year : 1990
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 120 
+Average Movies per Genre: 16.444444 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 53                   
+Drama                 : 48                   
+Action                : 31                   
+Thriller              : 26                   
+Romance               : 23                   
+Horror                : 20                   
+Crime                 : 19                   
+
+Genres below Average 
+
+Sci-Fi                : 16                   
+Adventure             : 16                   
+Fantasy               : 13                   
+War                   : 7                    
+Animation             : 5                    
+Mystery               : 5                    
+Children              : 5                    
+Western               : 4                    
+Musical               : 3                    
+Film-Noir             : 1                    
+Documentary           : 1                    
+
+
+Year : 1991
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 121 
+Average Movies per Genre: 14.444444 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 56                   
+Drama                 : 51                   
+Romance               : 25                   
+Action                : 22                   
+Thriller              : 19                   
+Adventure             : 16                   
+Crime                 : 15                   
+
+Genres below Average 
+
+Sci-Fi                : 11                   
+Fantasy               : 10                   
+Mystery               : 8                    
+Horror                : 6                    
+Musical               : 5                    
+Children              : 5                    
+Animation             : 5                    
+Documentary           : 3                    
+War                   : 1                    
+Western               : 1                    
+IMAX                  : 1                    
+
+
+Year : 1992
+List of Genres in Descendng order 
+Number of Genres: 19 
+Number of Movies : 136 
+Average Movies per Genre: 15.631579 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 61                   
+Drama                 : 57                   
+Romance               : 29                   
+Action                : 28                   
+Thriller              : 25                   
+Crime                 : 19                   
+
+Genres below Average 
+
+Horror                : 12                   
+Adventure             : 12                   
+Children              : 10                   
+Fantasy               : 9                    
+Sci-Fi                : 8                    
+Animation             : 8                    
+Documentary           : 5                    
+Mystery               : 5                    
+Musical               : 3                    
+War                   : 2                    
+Film-Noir             : 2                    
+IMAX                  : 1                    
+Western               : 1                    
+
+
+Year : 1993
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 157 
+Average Movies per Genre: 18.277778 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 75                   
+Comedy                : 63                   
+Action                : 37                   
+Romance               : 23                   
+Thriller              : 22                   
+
+Genres below Average 
+
+Adventure             : 17                   
+Crime                 : 15                   
+Sci-Fi                : 13                   
+Children              : 13                   
+Fantasy               : 12                   
+Horror                : 11                   
+Animation             : 8                    
+Mystery               : 8                    
+War                   : 5                    
+Musical               : 3                    
+Western               : 2                    
+Documentary           : 1                    
+Film-Noir             : 1                    
+
+
+Year : 1994
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 184 
+Average Movies per Genre: 20.388889 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 88                   
+Drama                 : 87                   
+Romance               : 32                   
+Action                : 28                   
+Thriller              : 26                   
+
+Genres below Average 
+
+Adventure             : 20                   
+Crime                 : 19                   
+Children              : 14                   
+Horror                : 12                   
+Sci-Fi                : 8                    
+Animation             : 7                    
+Western               : 7                    
+Fantasy               : 5                    
+Documentary           : 5                    
+War                   : 4                    
+Mystery               : 3                    
+IMAX                  : 1                    
+Musical               : 1                    
+
+
+Year : 1995
+List of Genres in Descendng order 
+Number of Genres: 20 
+Number of Movies : 205 
+Average Movies per Genre: 22.200000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 96                   
+Comedy                : 73                   
+Action                : 39                   
+Romance               : 38                   
+Thriller              : 34                   
+Crime                 : 26                   
+Adventure             : 24                   
+
+Genres below Average 
+
+Children              : 20                   
+Sci-Fi                : 18                   
+Horror                : 15                   
+Mystery               : 13                   
+War                   : 11                   
+Fantasy               : 11                   
+Animation             : 11                   
+Western               : 5                    
+Documentary           : 5                    
+Musical               : 2                    
+(no genres listed)    : 1                    
+Film-Noir             : 1                    
+IMAX                  : 1                    
+
+
+Year : 1996
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 216 
+Average Movies per Genre: 25.444444 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 97                   
+Comedy                : 89                   
+Thriller              : 46                   
+Romance               : 42                   
+Action                : 32                   
+Adventure             : 29                   
+Crime                 : 28                   
+
+Genres below Average 
+
+Children              : 20                   
+Sci-Fi                : 18                   
+Horror                : 11                   
+Fantasy               : 10                   
+Documentary           : 9                    
+Musical               : 8                    
+Mystery               : 8                    
+Animation             : 7                    
+War                   : 2                    
+Film-Noir             : 1                    
+Western               : 1                    
+
+
+Year : 1997
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 210 
+Average Movies per Genre: 25.944444 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 102                  
+Comedy                : 74                   
+Thriller              : 48                   
+Romance               : 43                   
+Action                : 39                   
+Crime                 : 30                   
+
+Genres below Average 
+
+Children              : 21                   
+Adventure             : 19                   
+Mystery               : 19                   
+Sci-Fi                : 16                   
+Horror                : 14                   
+Fantasy               : 11                   
+Animation             : 9                    
+Documentary           : 6                    
+Musical               : 6                    
+War                   : 6                    
+Film-Noir             : 3                    
+IMAX                  : 1                    
+
+
+Year : 1998
+List of Genres in Descendng order 
+Number of Genres: 19 
+Number of Movies : 192 
+Average Movies per Genre: 23.684211 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 91                   
+Comedy                : 71                   
+Romance               : 43                   
+Thriller              : 43                   
+Action                : 36                   
+Crime                 : 26                   
+Adventure             : 25                   
+
+Genres below Average 
+
+Sci-Fi                : 23                   
+Children              : 18                   
+Fantasy               : 17                   
+Horror                : 13                   
+Animation             : 11                   
+Documentary           : 8                    
+Mystery               : 8                    
+War                   : 6                    
+Musical               : 5                    
+IMAX                  : 3                    
+Western               : 2                    
+Film-Noir             : 1                    
+
+
+Year : 1999
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 195 
+Average Movies per Genre: 21.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 95                   
+Drama                 : 83                   
+Romance               : 36                   
+Thriller              : 31                   
+Action                : 24                   
+
+Genres below Average 
+
+Horror                : 15                   
+Adventure             : 14                   
+Crime                 : 13                   
+Sci-Fi                : 13                   
+Fantasy               : 12                   
+Documentary           : 11                   
+Children              : 10                   
+Mystery               : 7                    
+Animation             : 5                    
+Musical               : 3                    
+War                   : 3                    
+Western               : 2                    
+IMAX                  : 1                    
+
+
+Year : 2000
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 213 
+Average Movies per Genre: 25.500000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 107                  
+Comedy                : 89                   
+Thriller              : 44                   
+Romance               : 43                   
+Action                : 33                   
+Crime                 : 29                   
+
+Genres below Average 
+
+Horror                : 19                   
+Sci-Fi                : 17                   
+Adventure             : 16                   
+Animation             : 14                   
+Fantasy               : 11                   
+Children              : 9                    
+Documentary           : 9                    
+War                   : 6                    
+Mystery               : 6                    
+Musical               : 4                    
+Western               : 2                    
+IMAX                  : 1                    
+
+
+Year : 2001
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 233 
+Average Movies per Genre: 28.500000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 113                  
+Comedy                : 104                  
+Romance               : 55                   
+Thriller              : 40                   
+Action                : 33                   
+Crime                 : 32                   
+
+Genres below Average 
+
+Adventure             : 20                   
+Animation             : 16                   
+Fantasy               : 16                   
+Horror                : 16                   
+Mystery               : 15                   
+Sci-Fi                : 14                   
+Documentary           : 10                   
+War                   : 10                   
+Children              : 10                   
+Musical               : 5                    
+Western               : 3                    
+Film-Noir             : 1                    
+
+
+Year : 2002
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 253 
+Average Movies per Genre: 32.055556 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 120                  
+Comedy                : 91                   
+Thriller              : 60                   
+Romance               : 45                   
+Crime                 : 43                   
+Action                : 39                   
+
+Genres below Average 
+
+Adventure             : 31                   
+Horror                : 24                   
+Sci-Fi                : 24                   
+Documentary           : 23                   
+Mystery               : 16                   
+Children              : 16                   
+Fantasy               : 15                   
+Animation             : 11                   
+Musical               : 11                   
+War                   : 4                    
+Western               : 2                    
+IMAX                  : 2                    
+
+
+Year : 2003
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 213 
+Average Movies per Genre: 28.388889 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 98                   
+Comedy                : 87                   
+Thriller              : 48                   
+Action                : 48                   
+Romance               : 41                   
+Crime                 : 38                   
+
+Genres below Average 
+
+Adventure             : 25                   
+Children              : 19                   
+Horror                : 19                   
+Mystery               : 18                   
+Documentary           : 15                   
+Fantasy               : 13                   
+Animation             : 13                   
+Sci-Fi                : 13                   
+War                   : 9                    
+Musical               : 5                    
+Western               : 1                    
+IMAX                  : 1                    
+
+
+Year : 2004
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 218 
+Average Movies per Genre: 30.111111 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 100                  
+Comedy                : 88                   
+Action                : 53                   
+Thriller              : 42                   
+Romance               : 40                   
+Adventure             : 35                   
+
+Genres below Average 
+
+Fantasy               : 25                   
+Horror                : 25                   
+Crime                 : 24                   
+Sci-Fi                : 23                   
+Documentary           : 22                   
+Mystery               : 15                   
+Children              : 14                   
+Animation             : 13                   
+War                   : 11                   
+Musical               : 7                    
+Western               : 3                    
+IMAX                  : 2                    
+
+
+Year : 2005
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 203 
+Average Movies per Genre: 29.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 101                  
+Comedy                : 90                   
+Thriller              : 46                   
+Action                : 43                   
+Romance               : 36                   
+Crime                 : 32                   
+Adventure             : 31                   
+
+Genres below Average 
+
+Horror                : 24                   
+Children              : 21                   
+Documentary           : 18                   
+Fantasy               : 17                   
+Animation             : 14                   
+Sci-Fi                : 14                   
+War                   : 11                   
+Mystery               : 10                   
+Musical               : 7                    
+IMAX                  : 4                    
+Film-Noir             : 3                    
+
+
+Year : 2006
+List of Genres in Descendng order 
+Number of Genres: 19 
+Number of Movies : 221 
+Average Movies per Genre: 28.684211 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 106                  
+Comedy                : 91                   
+Thriller              : 53                   
+Action                : 42                   
+Romance               : 40                   
+Adventure             : 30                   
+
+Genres below Average 
+
+Crime                 : 27                   
+Fantasy               : 26                   
+Horror                : 23                   
+Animation             : 19                   
+Sci-Fi                : 18                   
+Children              : 18                   
+Mystery               : 16                   
+Documentary           : 15                   
+War                   : 8                    
+IMAX                  : 6                    
+Musical               : 5                    
+Film-Noir             : 1                    
+Western               : 1                    
+
+
+Year : 2007
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 218 
+Average Movies per Genre: 29.666667 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 105                  
+Comedy                : 85                   
+Thriller              : 56                   
+Action                : 40                   
+Romance               : 40                   
+Horror                : 33                   
+Crime                 : 31                   
+
+Genres below Average 
+
+Adventure             : 26                   
+Sci-Fi                : 21                   
+Animation             : 19                   
+Fantasy               : 19                   
+Documentary           : 14                   
+Children              : 11                   
+War                   : 10                   
+Mystery               : 8                    
+Musical               : 8                    
+IMAX                  : 6                    
+Western               : 2                    
+
+
+Year : 2008
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 206 
+Average Movies per Genre: 29.166667 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 83                   
+Comedy                : 80                   
+Action                : 59                   
+Thriller              : 43                   
+Adventure             : 37                   
+Romance               : 35                   
+Crime                 : 31                   
+
+Genres below Average 
+
+Sci-Fi                : 26                   
+Animation             : 21                   
+Fantasy               : 19                   
+Documentary           : 18                   
+Children              : 17                   
+Horror                : 16                   
+War                   : 12                   
+Mystery               : 11                   
+Musical               : 9                    
+IMAX                  : 5                    
+Western               : 3                    
+
+
+Year : 2009
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 211 
+Average Movies per Genre: 30.333333 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 94                   
+Comedy                : 88                   
+Thriller              : 52                   
+Action                : 50                   
+Sci-Fi                : 40                   
+Adventure             : 32                   
+
+Genres below Average 
+
+Romance               : 29                   
+Horror                : 27                   
+Animation             : 26                   
+Crime                 : 24                   
+Fantasy               : 24                   
+Mystery               : 17                   
+Children              : 13                   
+Documentary           : 9                    
+IMAX                  : 9                    
+War                   : 6                    
+Musical               : 4                    
+Western               : 2                    
+
+
+Year : 2010
+List of Genres in Descendng order 
+Number of Genres: 19 
+Number of Movies : 194 
+Average Movies per Genre: 24.368421 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 80                   
+Drama                 : 80                   
+Action                : 50                   
+Thriller              : 40                   
+Romance               : 34                   
+
+Genres below Average 
+
+Adventure             : 23                   
+Fantasy               : 20                   
+Crime                 : 18                   
+Horror                : 18                   
+Documentary           : 15                   
+Animation             : 15                   
+Sci-Fi                : 15                   
+IMAX                  : 14                   
+Mystery               : 13                   
+Children              : 12                   
+War                   : 7                    
+Musical               : 4                    
+Western               : 4                    
+Film-Noir             : 1                    
+
+
+Year : 2011
+List of Genres in Descendng order 
+Number of Genres: 19 
+Number of Movies : 199 
+Average Movies per Genre: 26.263158 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 82                   
+Comedy                : 79                   
+Thriller              : 47                   
+Action                : 47                   
+Adventure             : 33                   
+Romance               : 30                   
+Sci-Fi                : 29                   
+
+Genres below Average 
+
+Animation             : 22                   
+Crime                 : 20                   
+Documentary           : 20                   
+IMAX                  : 17                   
+Fantasy               : 17                   
+Horror                : 16                   
+Children              : 16                   
+Mystery               : 13                   
+War                   : 5                    
+Musical               : 2                    
+Film-Noir             : 2                    
+Western               : 2                    
+
+
+Year : 2012
+List of Genres in Descendng order 
+Number of Genres: 19 
+Number of Movies : 173 
+Average Movies per Genre: 22.578947 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 78                   
+Drama                 : 68                   
+Action                : 47                   
+Thriller              : 43                   
+Crime                 : 27                   
+
+Genres below Average 
+
+Sci-Fi                : 21                   
+Horror                : 20                   
+Adventure             : 20                   
+Romance               : 19                   
+Animation             : 18                   
+IMAX                  : 18                   
+Fantasy               : 17                   
+Children              : 9                    
+Documentary           : 7                    
+Mystery               : 5                    
+War                   : 5                    
+Musical               : 5                    
+Western               : 1                    
+Film-Noir             : 1                    
+
+
+Year : 2013
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 181 
+Average Movies per Genre: 24.277778 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 72                   
+Comedy                : 66                   
+Action                : 47                   
+Thriller              : 38                   
+Adventure             : 30                   
+Sci-Fi                : 25                   
+
+Genres below Average 
+
+IMAX                  : 24                   
+Crime                 : 24                   
+Romance               : 24                   
+Fantasy               : 21                   
+Horror                : 18                   
+Animation             : 16                   
+Mystery               : 14                   
+Documentary           : 7                    
+Children              : 6                    
+War                   : 3                    
+(no genres listed)    : 1                    
+Musical               : 1                    
+
+
+Year : 2014
+List of Genres in Descendng order 
+Number of Genres: 18 
+Number of Movies : 231 
+Average Movies per Genre: 28.944444 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Comedy                : 102                  
+Drama                 : 98                   
+Action                : 54                   
+Thriller              : 43                   
+Crime                 : 34                   
+Adventure             : 32                   
+Romance               : 30                   
+
+Genres below Average 
+
+Sci-Fi                : 22                   
+Horror                : 19                   
+Animation             : 14                   
+Children              : 13                   
+IMAX                  : 13                   
+Fantasy               : 12                   
+Documentary           : 11                   
+Mystery               : 11                   
+War                   : 7                    
+Musical               : 4                    
+Western               : 2                    
+
+
+Year : 2015
+List of Genres in Descendng order 
+Number of Genres: 19 
+Number of Movies : 180 
+Average Movies per Genre: 22.473684 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Drama                 : 69                   
+Comedy                : 64                   
+Action                : 51                   
+Thriller              : 41                   
+Adventure             : 39                   
+Sci-Fi                : 33                   
+Crime                 : 25                   
+
+Genres below Average 
+
+Horror                : 22                   
+Romance               : 19                   
+Fantasy               : 16                   
+Mystery               : 12                   
+Animation             : 10                   
+Documentary           : 9                    
+Children              : 9                    
+War                   : 2                    
+(no genres listed)    : 2                    
+Western               : 2                    
+Musical               : 1                    
+IMAX                  : 1                    
+
+
+Year : 2016
+List of Genres in Descendng order 
+Number of Genres: 10 
+Number of Movies : 16 
+Average Movies per Genre: 4.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Action                : 9                    
+Sci-Fi                : 8                    
+Adventure             : 8                    
+Fantasy               : 5                    
+
+Genres below Average 
+
+Drama                 : 2                    
+Thriller              : 2                    
+Comedy                : 2                    
+(no genres listed)    : 2                    
+Crime                 : 1                    
+Animation             : 1                    
+
+
+Year : 2017
+List of Genres in Descendng order 
+Number of Genres: 5 
+Number of Movies : 6 
+Average Movies per Genre: 3.200000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Adventure             : 5                    
+Action                : 5                    
+Sci-Fi                : 4                    
+
+Genres below Average 
+
+Fantasy               : 1                    
+(no genres listed)    : 1                    
+
+
+Year : 2018
+List of Genres in Descendng order 
+Number of Genres: 3 
+Number of Movies : 1 
+Average Movies per Genre: 1.000000 
+
+Genre                 Times appeared        
+
+Genres above or equal to Average 
+
+Sci-Fi                : 1                    
+Adventure             : 1                    
+Action                : 1                    
+
+

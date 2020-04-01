@@ -7,7 +7,7 @@ Output2 is omitted on purpose as it was commented out as it had no relevant data
 
 Output3 has the list of movies from the last 5 years.
 
-Output 4 has the list of the genres across all movies.
+Output4 has the list of the genres across all movies.
 
 Output5 has the list of the genres from the last 5 years.
 

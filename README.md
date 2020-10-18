@@ -14,3 +14,6 @@ Output5 has the list of the genres from the last 5 years.
 Output6 has all the genres broken down by year.
 
 Output7 has all the movies broken down by year.
+
+
+To run the program you can copy the source code and input into an IDE and then run Trial.java as it contains main.
